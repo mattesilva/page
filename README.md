@@ -1,6 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/mattesilva/hub-links?style=flat-square)
 
-# HUB de Links
-Hub de Links estilo linktree usando HTML5 E CSS3
+# SITE PARA HACKS ROMS E EMULADORES
+O objetivo do site é poder baixar jogos, emuladores e roms modificadas.
 ## Autor
 Mateus de Oliveira
